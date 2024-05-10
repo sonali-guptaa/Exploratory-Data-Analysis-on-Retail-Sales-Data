@@ -7,16 +7,16 @@ The primary objective is to gain a comprehensive understanding of your retail sa
 # Data Sources:
 - Dataset : [[Link to Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)]
 
-# Key Analysis:
-1.Data Loading and Cleaning: Load the retail sales dataset.
-2.Descriptive Statistics: Calculate basic statistics (mean, median, mode, standard deviation).
-3.Time Series Analysis: Analyze sales trends over time using time series techniques.
-4.Customer and Product Analysis: Analyze customer demographics and purchasing behavior.
-5.Visualization: Present insights through bar charts, line plots, and heatmaps.
-6.Recommendations: Provide actionable recommendations based on the EDA.
+# Tasks Performed:
+- Data Loading and Cleaning: Loaded the retail sales dataset.
+- Descriptive Statistics: Calculated basic statistics (mean, median, mode, standard deviation).
+- Time Series Analysis: Analyzed sales trends over time using time series techniques.
+- Customer and Product Analysis: Analyzed customer demographics and purchasing behavior.
+- Visualization: Presented insights through bar charts, line plots, and heatmaps.
+- Recommendations: Provided actionable recommendations based on the EDA.
 
 # Learning Objectives:
-Gain hands-on experience in data cleaning and exploratory data analysis.
-Develop skills in interpreting descriptive statistics and time series analysis.
-Learn to use data visualization for effective communication of insights.
+- Gain hands-on experience in data cleaning and exploratory data analysis.
+- Develop skills in interpreting descriptive statistics and time series analysis.
+- Learn to use data visualization for effective communication of insights.
 
